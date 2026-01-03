@@ -3,11 +3,11 @@
 Application React pour gérer un inventaire de produits. Permet d'ajouter, modifier, supprimer et rechercher des produits.
 
 ## Fonctionnalités
-- ✅ Ajouter, modifier, supprimer des produits
-- ✅ Recherche par nom/catégorie
-- ✅ Sauvegarde automatique (localStorage)
-- ✅ Calcul du stock total
-- ✅ Design responsive
+- Ajouter, modifier, supprimer des produits
+- Recherche par nom/catégorie
+- Sauvegarde automatique (localStorage)
+- Calcul du stock total
+- Design responsive
 
 ## Installation
 ```bash
